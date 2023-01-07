@@ -21,7 +21,7 @@ The format for the data files are the following:
 To view a compact example data file, open `tiny.txt`
 
 ### Changing data files
-To change which data file is being indexed, edit the parameter for the 'searchEngine' function call in main.cpp 
+To change which data file is being indexed, edit the parameter for the `searchEngine` function call in main.cpp 
 
 ## Sample execution
 
